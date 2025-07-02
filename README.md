@@ -44,3 +44,4 @@ docker run -p 8080:8080 hello-world-app
 - `PORT` - Server port (default: 8080)
 - `APP_VERSION` - Application version (default: 1.0.0)
 # Updated Wed Jul  2 14:14:37 CEST 2025
+ 

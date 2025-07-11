@@ -17,7 +17,7 @@ def hello_world():
             'message': 'Hello, World!',
             'timestamp': datetime.datetime.now().isoformat(),
             'version': os.getenv('APP_VERSION', '1.0.0'),
-            'foo': 'hi there',
+            'foo': 'xhi there',
             'hostname': os.getenv('HOSTNAME', 'unknown'),
         }
     )
